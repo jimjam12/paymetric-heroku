@@ -73,11 +73,6 @@ TEMPLATES = [
     },
 ]
 
-<<<<<<< HEAD
-WSGI_APPLICATION = 'Paymetric-1025 recent - Copy.wsgi'
-=======
-WSGI_APPLICATION = 'Paymetricv2.wsgi.application'
->>>>>>> 6bf16894039fbf84a442853c35830c41c09fbabb
 
 
 # Database
@@ -137,24 +132,3 @@ MEDIA_ROOT = os.path.join(os.path.dirname(BASE_DIR), "static_cdn", "media_root")
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
-
-<<<<<<< HEAD
-CORS_REPLACE_HTTPS_REFERER = False
-HOST_SCHEME = "http://"
-SECURE_PROXY_SSL_HEADER = None
-SECURE_SSL_REDIRECT = False
-=======
-CORS_REPLACE_HTTPS_REFERER = True
-HOST_SCHEME = "http://"
-SECURE_PROXY_SSL_HEADER = None
-SECURE_SSL_REDIRECT =  False
->>>>>>> 6bf16894039fbf84a442853c35830c41c09fbabb
-SESSION_COOKIE_SECURE = False
-CSRF_COOKIE_SECURE = False
-SECURE_HSTS_SECONDS = None
-SECURE_HSTS_INCLUDE_SUBDOMAINS = False
-<<<<<<< HEAD
-SECURE_FRAME_DENY = False
-=======
-SECURE_FRAME_DENY = False
->>>>>>> 6bf16894039fbf84a442853c35830c41c09fbabb
