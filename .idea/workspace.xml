@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df49da14-27aa-440e-9138-7dc89497eb90" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Paymetricv2/settings/production.py" beforeDir="false" afterPath="$PROJECT_DIR$/Paymetricv2/settings/production.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Paymetric-1018.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Paymetric-1018.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/Activate.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/activate.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/deactivate.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/python.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Scripts/pythonw.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/pyvenv.cfg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +44,8 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Paymetric-1025" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../paymetric-deployment-master" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -100,7 +110,22 @@
       <workItem from="1668044988419" duration="1416000" />
       <workItem from="1668046428578" duration="10844000" />
       <workItem from="1668059205382" duration="2529000" />
-      <workItem from="1668061883840" duration="1698000" />
+      <workItem from="1668061883840" duration="2339000" />
+      <workItem from="1668064255161" duration="1036000" />
+      <workItem from="1668065316308" duration="432000" />
+      <workItem from="1668065923497" duration="880000" />
+      <workItem from="1668066822738" duration="236000" />
+      <workItem from="1668067075478" duration="98000" />
+      <workItem from="1668067189629" duration="176000" />
+      <workItem from="1668067379077" duration="277000" />
+      <workItem from="1668067694418" duration="80000" />
+      <workItem from="1668067840136" duration="184000" />
+      <workItem from="1668068043031" duration="509000" />
+      <workItem from="1668068576973" duration="17000" />
+      <workItem from="1668068692298" duration="794000" />
+      <workItem from="1668069505347" duration="416000" />
+      <workItem from="1668069983940" duration="17000" />
+      <workItem from="1668070012917" duration="39000" />
     </task>
     <task id="LOCAL-00001" summary="`changes 1025`">
       <created>1666956660870</created>
@@ -124,24 +149,24 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="75" key="#Inspections/1920.0.1366.730/0.0.1536.834@0.0.1536.834" timestamp="1666540077009" />
-    <state x="532" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1668063077294">
+    <state x="532" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1668068896033">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="532" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1668063077294" />
+    <state x="532" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1668068896033" />
     <state x="393" y="11" key="CommitChangelistDialog2" timestamp="1666956659924">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="393" y="11" key="CommitChangelistDialog2/1920.0.1366.730/0.0.1536.834@0.0.1536.834" timestamp="1666956659924" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1668051797754">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1668070049770">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1668051797754" />
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1668070049770" />
     <state x="686" y="214" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1666627160433" />
     <state x="549" y="172" key="FileChooserDialogImpl/1920.0.1366.730/0.0.1536.834@0.0.1536.834" timestamp="1668012922525" />
-    <state x="277" y="59" key="SettingsEditor" timestamp="1668058468531">
+    <state x="277" y="59" key="SettingsEditor" timestamp="1668067055938">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="277" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1668058468531" />
+    <state x="277" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1668067055938" />
     <state x="346" y="74" key="SettingsEditor/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1666627535966" />
     <state x="277" y="59" key="SettingsEditor/1920.0.1366.730/0.0.1536.834@0.0.1536.834" timestamp="1666544104874" />
     <state x="660" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1666631942289">
