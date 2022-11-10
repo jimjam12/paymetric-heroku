@@ -73,7 +73,10 @@ TEMPLATES = [
     },
 ]
 
+<<<<<<< HEAD
 WSGI_APPLICATION = 'Paymetricv2.wsgi.application'
+=======
+>>>>>>> ab42101bad08dff326d31a1d3111bd42d2249a91
 
 
 # Database
