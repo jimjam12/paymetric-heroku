@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df49da14-27aa-440e-9138-7dc89497eb90" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/Paymetricv2/settings/production.py" beforeDir="false" afterPath="$PROJECT_DIR$/Paymetricv2/settings/production.py" afterDir="false" />
+>>>>>>> 6bf16894039fbf84a442853c35830c41c09fbabb
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,8 +41,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+<<<<<<< HEAD
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Paymetric-1025 recent" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+=======
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Paymetric-1025" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Jaz\Desktop\Paymetric-1025 recent\Paymetricv2\settings" />
+    </key>
+>>>>>>> 6bf16894039fbf84a442853c35830c41c09fbabb
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -101,11 +115,17 @@
       <workItem from="1668012803340" duration="4464000" />
       <workItem from="1668044941654" duration="15000" />
       <workItem from="1668044988419" duration="1416000" />
+<<<<<<< HEAD
       <workItem from="1668046428578" duration="10154000" />
       <workItem from="1668102115781" duration="3433000" />
       <workItem from="1668105570958" duration="1139000" />
       <workItem from="1668106724058" duration="1421000" />
       <workItem from="1668108202115" duration="864000" />
+=======
+      <workItem from="1668046428578" duration="10844000" />
+      <workItem from="1668059205382" duration="2529000" />
+      <workItem from="1668061883840" duration="1698000" />
+>>>>>>> 6bf16894039fbf84a442853c35830c41c09fbabb
     </task>
     <task id="LOCAL-00001" summary="`changes 1025`">
       <created>1666956660870</created>
@@ -129,6 +149,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="361" y="75" key="#Inspections/1920.0.1366.730/0.0.1536.834@0.0.1536.834" timestamp="1666540077009" />
+    <state x="532" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1668063077294">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="532" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.834@0.0.1536.834" timestamp="1668063077294" />
     <state x="393" y="11" key="CommitChangelistDialog2" timestamp="1666956659924">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -138,8 +162,13 @@
     </state>
     <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1668051797754" />
     <state x="686" y="214" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1536.824@0.0.1920.1040" timestamp="1666627160433" />
+<<<<<<< HEAD
     <state x="549" y="172" key="FileChooserDialogImpl/1920.0.1366.730/0.0.1536.834@0.0.1536.834" timestamp="1668107479050" />
     <state x="277" y="59" key="SettingsEditor" timestamp="1668108584531">
+=======
+    <state x="549" y="172" key="FileChooserDialogImpl/1920.0.1366.730/0.0.1536.834@0.0.1536.834" timestamp="1668012922525" />
+    <state x="277" y="59" key="SettingsEditor" timestamp="1668058468531">
+>>>>>>> 6bf16894039fbf84a442853c35830c41c09fbabb
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="277" y="59" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1668058468531" />

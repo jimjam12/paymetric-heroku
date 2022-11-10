@@ -134,10 +134,17 @@ MEDIA_ROOT = os.path.join(os.path.dirname(BASE_DIR), "static_cdn", "media_root")
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
+<<<<<<< HEAD
 CORS_REPLACE_HTTPS_REFERER = False
 HOST_SCHEME = "http://"
 SECURE_PROXY_SSL_HEADER = None
 SECURE_SSL_REDIRECT = False
+=======
+CORS_REPLACE_HTTPS_REFERER = True
+HOST_SCHEME = "http://"
+SECURE_PROXY_SSL_HEADER None
+SECURE_SSL_REDIRECT =  False
+>>>>>>> 6bf16894039fbf84a442853c35830c41c09fbabb
 SESSION_COOKIE_SECURE = False
 CSRF_COOKIE_SECURE = False
 SECURE_HSTS_SECONDS = None

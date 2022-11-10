@@ -89,7 +89,11 @@ DATABASES = {
 import dj_database_url
 db_from_env = dj_database_url.config()
 DATABASES['default'].update(db_from_env)
+<<<<<<< HEAD
 DATABASES['default']['CONN_MAX_AGE'] = 500
+=======
+DATABASES['default']['CON_MAX_AGE'] = 500
+>>>>>>> 6bf16894039fbf84a442853c35830c41c09fbabb
 
 # Password validation
 # https://docs.djangoproject.com/en/4.1/ref/settings/#auth-password-validators
@@ -141,7 +145,11 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CORS_REPLACE_HTTPS_REFERER = True
 HOST_SCHEME = "https://"
 SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+<<<<<<< HEAD
 SECURE_SSL_REDIRECT = True
+=======
+SECURE_SSL_REDIRECT =  True
+>>>>>>> 6bf16894039fbf84a442853c35830c41c09fbabb
 SESSION_COOKIE_SECURE = True
 CSRF_COOKIE_SECURE = True
 SECURE_HSTS_INCLUDE_SUBDOMAINS = True
