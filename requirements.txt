@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 0794bccfb440936c36d9e7d0ed2c6531ea4e6822
 asgiref==3.5.2
 calculation==8.0
 dj-database-url==1.0.0
@@ -9,6 +12,7 @@ psycopg2==2.9.5
 setuptools==58.1.0
 sqlparse==0.4.3
 tzdata==2022.6
+<<<<<<< HEAD
 =======
 appdirs==1.4.4
 asgiref==3.2.10
@@ -38,3 +42,5 @@ urllib3==1.25.11
 virtualenv==20.0.31
 whitenoise==5.2.0
 >>>>>>> 6bf16894039fbf84a442853c35830c41c09fbabb
+=======
+>>>>>>> 0794bccfb440936c36d9e7d0ed2c6531ea4e6822
